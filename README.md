@@ -3,7 +3,7 @@
 Interactive prototype for prioritizing enterprise AI use cases, planning a 90-day rollout, and embedding governance guardrails.
 
 ## Live Demo
-[Demo Link]
+[(https://trell-j.github.io/ai-enablement-hub/)]
 
 ## Why I Built This
 I built this project to demonstrate how I approach AI strategy and transformation work: identifying use cases, scoring opportunities, sequencing rollout, and balancing impact with governance.
